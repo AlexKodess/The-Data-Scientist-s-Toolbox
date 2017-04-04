@@ -3,7 +3,7 @@
 ### This is a tertiary heading
 This is the first course in the Data Science specialization by by Johns Hopkins University
 
-#h2
+## Unordered List
 * Item1
 * Item2
 * Item3
